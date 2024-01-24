@@ -1,4 +1,4 @@
-from src.monad.Maybe import Maybe
+from src.monad.maybe import Maybe
 
 def test_maybe_when_given_value_correctly_unwraps_value():
     # ints
