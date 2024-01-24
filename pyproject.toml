@@ -3,11 +3,11 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/monad"]
+packages = ["src/pinad"]
 
 [project]
 name = "pinad"
-version = "0.0.1a"
+version = "0.0.3a"
 authors = [
   { name="Robert DeRienzo", email="rlderienzo@gmail.com" },
 ]
