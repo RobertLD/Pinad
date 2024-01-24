@@ -7,7 +7,7 @@ packages = ["src/monad"]
 
 [project]
 name = "pinad"
-version = "0.0.1"
+version = "0.0.1a"
 authors = [
   { name="Robert DeRienzo", email="rlderienzo@gmail.com" },
 ]
