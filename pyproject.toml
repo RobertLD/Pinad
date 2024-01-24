@@ -7,7 +7,7 @@ packages = ["src/pinad"]
 
 [project]
 name = "pinad"
-version = "0.0.3a"
+version = "0.0.3"
 authors = [
   { name="Robert DeRienzo", email="rlderienzo@gmail.com" },
 ]
